@@ -302,7 +302,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4A2A3D !important;
+			color: rgb(134, 92, 117) !important;
 		}
 
 	strong, b {
@@ -2226,8 +2226,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #4A2A3D;
-			color: #4A2A3D !important;
+			box-shadow: inset 0 0 0 2px rgb(134, 92, 117);
+			color: rgb(134, 92, 117) !important;
 		}
 
 		input[type="submit"].primary,
@@ -2245,7 +2245,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #4A2A3D;
+				background-color: rgb(134, 92, 117);
 			}
 
 /* Form */
@@ -2502,7 +2502,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4A2A3D;
+			border-color: rgb(134, 92, 117);
 		}
 
 	select {
@@ -2537,7 +2537,7 @@ input, select, textarea {
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #4A2A3D;
+		border-color: rgb(134, 92, 117);
 	}
 
 	::-webkit-input-placeholder {
@@ -2909,7 +2909,7 @@ input, select, textarea {
 	}
 
 	ul.icons li a.icon:hover:before {
-		color: #4A2A3D;
+		color: rgb(134, 92, 117);
 	}
 
 	ul.icons.alt li .icon:before {
@@ -3216,14 +3216,14 @@ input, select, textarea {
 	}
 
 		.pagination a:hover {
-			color: #4A2A3D !important;
-			border-color: #4A2A3D;
+			color: rgb(134, 92, 117) !important;
+			border-color: rgb(134, 92, 117);
 			z-index: 1;
 		}
 
 			.pagination a:hover + a,
 			.pagination a:hover + span {
-				border-left-color: #4A2A3D;
+				border-left-color: rgb(134, 92, 117);
 			}
 
 		.pagination a.active {
@@ -3343,7 +3343,7 @@ input, select, textarea {
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #4A2A3D !important;
+				color: rgb(134, 92, 117) !important;
 			}
 
 		#intro strong, #intro b {
@@ -3382,8 +3382,8 @@ input, select, textarea {
 			#intro input[type="button"]:hover,
 			#intro button:hover,
 			#intro .button:hover {
-				box-shadow: inset 0 0 0 2px #4A2A3D;
-				color: #4A2A3D !important;
+				box-shadow: inset 0 0 0 2px rgb(134, 92, 117);
+				color: rgb(134, 92, 117) !important;
 			}
 
 			#intro input[type="submit"].primary,
@@ -3401,7 +3401,7 @@ input, select, textarea {
 				#intro input[type="button"].primary:hover,
 				#intro button.primary:hover,
 				#intro .button.primary:hover {
-					background-color: #4A2A3D;
+					background-color: rgb(134, 92, 117);
 				}
 
 		#intro h1 {
@@ -3552,7 +3552,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #4A2A3D !important;
+				color: rgb(134, 92, 117) !important;
 			}
 
 		#header strong, #header b {
@@ -3596,8 +3596,8 @@ input, select, textarea {
 		}
 
 			#header .logo:hover {
-				border-color: #4A2A3D !important;
-				color: #4A2A3D !important;
+				border-color: rgb(134, 92, 117) !important;
+				color: rgb(134, 92, 117) !important;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3651,7 +3651,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: #4A2A3D;
+			color: rgb(134, 92, 117);
 		}
 
 		#nav ul.icons.alt li .icon:before {
@@ -3659,7 +3659,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #4A2A3D;
+			box-shadow: inset 0 0 0 2px rgb(134, 92, 117);
 		}
 
 		#nav input, #nav select, #nav textarea {
@@ -3673,7 +3673,7 @@ input, select, textarea {
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #4A2A3D !important;
+				color: rgb(134, 92, 117) !important;
 			}
 
 		#nav strong, #nav b {
@@ -3749,7 +3749,7 @@ input, select, textarea {
 					}
 
 						#nav ul.links li.active a:hover {
-							color: #4A2A3D !important;
+							color: rgb(134, 92, 117) !important;
 						}
 
 		#nav ul.icons {
@@ -3993,7 +3993,7 @@ input, select, textarea {
 
 			#footer a:hover {
 				border-bottom-color: transparent;
-				color: #4A2A3D !important;
+				color: rgb(134, 92, 117) !important;
 			}
 
 		#footer strong, #footer b {
@@ -4036,8 +4036,8 @@ input, select, textarea {
 			#footer input[type="button"]:hover,
 			#footer button:hover,
 			#footer .button:hover {
-				box-shadow: inset 0 0 0 2px #4A2A3D;
-				color: #4A2A3D !important;
+				box-shadow: inset 0 0 0 2px rgb(134, 92, 117);
+				color: rgb(134, 92, 117) !important;
 			}
 
 			#footer input[type="submit"].primary,
@@ -4055,7 +4055,7 @@ input, select, textarea {
 				#footer input[type="button"].primary:hover,
 				#footer button.primary:hover,
 				#footer .button.primary:hover {
-					background-color: #4A2A3D;
+					background-color: rgb(134, 92, 117);
 				}
 
 		#footer label {
@@ -4075,7 +4075,7 @@ input, select, textarea {
 			#footer input[type="email"]:focus,
 			#footer select:focus,
 			#footer textarea:focus {
-				border-color: #4A2A3D;
+				border-color: rgb(134, 92, 117);
 			}
 
 		#footer select {
@@ -4110,7 +4110,7 @@ input, select, textarea {
 
 		#footer input[type="checkbox"]:focus + label:before,
 		#footer input[type="radio"]:focus + label:before {
-			border-color: #4A2A3D;
+			border-color: rgb(134, 92, 117);
 		}
 
 		#footer ::-webkit-input-placeholder {
@@ -4138,7 +4138,7 @@ input, select, textarea {
 		}
 
 		#footer ul.icons li a.icon:hover:before {
-			color: #4A2A3D;
+			color: rgb(134, 92, 117);
 		}
 
 		#footer ul.icons.alt li .icon:before {
@@ -4146,7 +4146,7 @@ input, select, textarea {
 		}
 
 		#footer ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #4A2A3D;
+			box-shadow: inset 0 0 0 2px rgb(134, 92, 117);
 		}
 
 		#footer header.major .date:before, #footer header.major .date:after {
@@ -4186,14 +4186,14 @@ input, select, textarea {
 		}
 
 			#footer .pagination a:hover {
-				color: #4A2A3D !important;
-				border-color: #4A2A3D;
+				color: rgb(134, 92, 117) !important;
+				border-color: rgb(134, 92, 117);
 				z-index: 1;
 			}
 
 				#footer .pagination a:hover + a,
 				#footer .pagination a:hover + span {
-					border-left-color: #4A2A3D;
+					border-left-color: rgb(134, 92, 117);
 				}
 
 			#footer .pagination a.active {
@@ -4430,7 +4430,7 @@ input, select, textarea {
 
 			#copyright a:hover {
 				border-bottom-color: transparent;
-				color: #4A2A3D !important;
+				color: rgb(134, 92, 117) !important;
 			}
 
 		#copyright strong, #copyright b {
