@@ -2633,6 +2633,7 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem 0;
 			width: 100%;
+			height: 240px;
 		}
 
 			.image.fit:first-child {
